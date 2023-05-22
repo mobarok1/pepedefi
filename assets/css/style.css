@@ -368,6 +368,13 @@ textarea.form-control {
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
+.partner_item{
+  margin: 20 20;
+}
+.partner_item img{
+  height: 100px;
+  width: 250px;
+}
 
 .lines {
   top: 0;
